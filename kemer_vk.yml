@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-19 05:00">
+  <shop>
+    <name>Планета Экскурсий</name>
+    <company>Планета Экскурсий</company>
+    <url>https://planetaekskursii.com/</url>
+    <currencies><currency id="USD" rate="1"/></currencies>
+    <categories><category id="1">Экскурсии из Кемера</category></categories>
+    <offers>
+      <offer id="kemer-001" available="true">
+        <name>Демре-Мира-Кекова из Кемера</name>
+        <price>36</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/demre-mira-kekova-iz-kemera.jpg</picture>
+        <description><![CDATA[Экскурсия из Кемера в Демре, Миру и к острову Кекова занимает 10 часов: в программе трансфер, церковь Святого Николая, античная Мира с ликийскими гробницами и театром, обед, прогулка на яхте к затонувшему городу и купание. Подойдёт тем, кто хочет совместить историю Ликии, христианские святыни и морские виды с русскоговорящим гидом.]]></description>
+      </offer>
+      <offer id="kemer-002" available="true">
+        <name>Памуккале и озеро Салда из Кемера</name>
+        <price>40</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/pamukkale-i-ozero-salda-iz-kemera.jpg</picture>
+        <description><![CDATA[Экскурсия из Кемера в Памуккале и к озеру Салда рассчитана на 14–15 часов: ранний выезд, завтрак, прогулка у бирюзовой воды Салды, переезд к травертинам, осмотр Иераполиса и свободное время до 2,5 часов, включая возможность посетить бассейн Клеопатры. Подойдёт тем, кто готов к длинной дороге ради природных видов, античных руин и фотолокаций.]]></description>
+      </offer>
+      <offer id="kemer-003" available="true">
+        <name>Каппадокия 2 дня из Кемера</name>
+        <price>35</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/kappadokiya-2-dnya-iz-kemera.jpg</picture>
+        <description><![CDATA[Двухдневная экскурсия из Кемера в Каппадокию включает ранний выезд, подземный город Татларин, панорамы Ортахисара, Учхисара и Гёреме, прогулку по Чавушину, ночь в отеле 4*, рассвет с парадом шаров или полётом по желанию, Розовую долину, гончарную и ониксовую мастерские. Подойдёт тем, кто готов к длинной дороге ради главных видов региона.]]></description>
+      </offer>
+      <offer id="kemer-004" available="true">
+        <name>Гора Тахталы и канатная дорога из Кемера</name>
+        <price>65</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/gora-takhtaly-i-kanatnaya-doroga-iz-kemera.jpg</picture>
+        <description><![CDATA[Экскурсия из Кемера на гору Тахталы включает трансфер к подножию, подъём по канатной дороге на высоту 2365 м, свободное время на вершине для прогулки, фото и отдыха на смотровых площадках, а затем обратный спуск. Маршрут подойдёт тем, кто хочет увидеть панорамы Кемера, Анталии и Средиземного моря без активных нагрузок.]]></description>
+      </offer>
+      <offer id="kemer-005" available="true">
+        <name>Демре-Мира-Кекова «Все включено» 1 день из Кемера</name>
+        <price>75</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/demre-mira-kekova-vse-vklyucheno-1-den-iz-kemera.jpg</picture>
+        <description><![CDATA[Однодневная экскурсия из Кемера в Демре, Миру и Кекову объединяет историю Ликии и морскую прогулку: в программе церковь Святого Николая, античный город Мира с ликийскими гробницами и театром, обед, яхта к затонувшему городу, купание и сопровождение русскоговорящего гида. Подойдёт тем, кто хочет за день увидеть святыни, древние руины и побережье Турции.]]></description>
+      </offer>
+      <offer id="kemer-006" available="true">
+        <name>Памуккале из Кемера. Все включено</name>
+        <price>68</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/pammukkale-iz-kemer-vse-vklyucheno.jpg</picture>
+        <description><![CDATA[Экскурсия из Кемера в Памуккале рассчитана на насыщенный день: дорога на автобусе, завтрак и обед, прогулка по белоснежным травертинам, знакомство с Иераполисом, свободное время для музея, античного театра и бассейна Клеопатры. Подойдёт тем, кто хочет за одну поездку совместить природные виды, термальные источники и древнюю историю Турции.]]></description>
+      </offer>
+      <offer id="kemer-007" available="true">
+        <name>Озеро Салда и Памуккале из Кемера. Все включено</name>
+        <price>70</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/ozero-salda-i-pammukkale-iz-kemera-vse-vklyucheno.jpg</picture>
+        <description><![CDATA[Экскурсия из Кемера соединяет озеро Салда и Памуккале за один день: свободное время у белого берега и яркой воды, обед шведский стол, прогулка по травертинам и Иераполису, около 3 часов на месте и возможность искупаться в бассейне Клеопатры. Подойдёт тем, кто хочет увидеть природные локации и античную историю Турции с русскоговорящим гидом.]]></description>
+      </offer>
+      <offer id="kemer-008" available="true">
+        <name>Экскурсия в Каш + Капуташ из Кемера</name>
+        <price>34</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/ekskursiya-v-kash-i-na-plyazh-kaputash-iz-kemera.jpg</picture>
+        <description><![CDATA[Экскурсия в Каш и на пляж Капуташ из Кемера — это однодневная поездка по живописному Средиземноморскому побережью с панорамной дорогой, прогулкой по атмосферному Кашу и отдыхом на знаменитом пляже Капуташ. Маршрут подойдёт тем, кто хочет увидеть античный театр, Гробницу короля, морские виды и бирюзовую бухту между скалами, совместив обзорную экскурсию с купанием и трансфером из отеля.]]></description>
+      </offer>
+      <offer id="kemer-009" available="true">
+        <name>Экскурсия в Каш + Капуташ из Кемера (все включено)</name>
+        <price>50</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/ekskursiya-v-kash-kaputash-iz-kemera-vse-vklyucheno.jpg</picture>
+        <description><![CDATA[Экскурсия в Каш и на пляж Капуташ из Кемера — это однодневная поездка по живописному Средиземноморскому побережью с панорамной дорогой, прогулкой по атмосферному Кашу и отдыхом на знаменитом пляже Капуташ. Маршрут подойдёт тем, кто хочет увидеть античный театр, Гробницу короля, морские виды и бирюзовую бухту между скалами, совместив обзорную экскурсию с купанием и трансфером из отеля.]]></description>
+      </offer>
+      <offer id="kemer-010" available="true">
+        <name>Экскурсия Каш + Капуташ + прогулка на яхте из Кемера</name>
+        <price>60</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/ekskursiya-kash-kaputash-progulka-na-yakhte-iz-kemera.jpg</picture>
+        <description><![CDATA[Экскурсия из Кемера объединяет прогулку по атмосферному Кашу, отдых на пляже Капуташ и морскую прогулку на яхте среди лазурных бухт и белоснежных скал. В программе также знаковые места Каша, включая античный театр и Ликийский саркофаг. Подойдёт тем, кто хочет совместить город, море и красивые виды за один день.]]></description>
+      </offer>
+      <offer id="kemer-011" available="true">
+        <name>Пиратская яхта Red Dragon в Кемере</name>
+        <price>18</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/piratskaya-yakhta-v-kemere.jpg</picture>
+        <description><![CDATA[Морская прогулка на пиратском корабле из Кемера занимает 9 часов: трансфер в порт, маршрут вдоль побережья, остановка в бухте Фазелис с купанием и возможностью посетить античный город, обед на борту, виды Райской бухты, отдых в бухте Лунный свет, пенная вечеринка и пиратские игры. Подойдёт семьям с детьми и тем, кто хочет активный день на море.]]></description>
+      </offer>
+      <offer id="kemer-012" available="true">
+        <name>Дайвинг в Кемере</name>
+        <price>25</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/dayving-v-kemere.jpg</picture>
+        <description><![CDATA[Экскурсия с дайвингом в Кемере рассчитана на 11 часов: трансфер в порт, инструктаж, оборудование и два погружения с инструктором в бухтах Кириш Аквариум и Пещера на глубину 5–8 м. Между выходами под воду предусмотрены отдых на яхте и обед. Подойдёт новичкам и тем, кто хочет увидеть морскую жизнь, прозрачную воду и скальные рельефы у берегов Кемера.]]></description>
+      </offer>
+      <offer id="kemer-013" available="true">
+        <name>Остров Сулуада из Кемера</name>
+        <price>25</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/ostrov-suluada-iz-kemera.jpg</picture>
+        <description><![CDATA[Экскурсия из Кемера на остров Сулуада рассчитана на 11–12 часов: трансфер в порт Адрасан, прогулка на яхте вдоль побережья, остановки для купания в бирюзовых бухтах, обед на борту и обратный трансфер в отель. Подойдёт тем, кто хочет провести день среди прозрачной воды, белых берегов, спокойных морских видов и отдыха вдали от шумных пляжей.]]></description>
+      </offer>
+      <offer id="kemer-014" available="true">
+        <name>Закат на острове Сулуада из Кемера</name>
+        <price>25</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/zakat-na-ostrove-suluada-iz-kemera.jpg</picture>
+        <description><![CDATA[Вечерняя экскурсия из Кемера на остров Сулуада начинается с трансфера в порт Адрасан и морской прогулки на яхте. В программе побережье острова, две остановки для купания в бухтах, ужин на борту и встреча заката у моря. Подойдёт семьям, парам и тем, кто хочет спокойный круиз с прозрачной водой, мягким вечерним светом и красивыми видами.]]></description>
+      </offer>
+      <offer id="kemer-015" available="true">
+        <name>Голубые бухты Порто Дженевиз из Кемера</name>
+        <price>27</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/golubye-bukhty-porto-dzheneviz-iz-kemera.jpg</picture>
+        <description><![CDATA[Экскурсия к Голубым бухтам Порто Дженевиз из Кемера занимает 10 часов: трансфер в порт Адрасан, прогулка на яхте вдоль побережья, купание в бухтах Аксеки, Сазак, Дженевиз и Корсан, свободное время для отдыха и фото, обед на борту и посещение Фазелиса по желанию. Подойдёт тем, кто ищет спокойный день на море среди скал и бирюзовой воды.]]></description>
+      </offer>
+      <offer id="kemer-016" available="true">
+        <name>Прогулка на яхте Mega Star из Кемера</name>
+        <price>18</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/progulka-na-yakhte-mega-star-iz-kemer.jpg</picture>
+        <description><![CDATA[Морская прогулка на яхте Mega Star из Кемера занимает 9 часов: трансфер в порт, отдых на трёхпалубной яхте, остановка у бухты Фазелис с возможностью купания или прогулки к руинам, обед на борту, Райская бухта и район Пиратской пещеры. Подойдёт семьям, парам и тем, кто хочет провести день у моря с видами, купанием и лёгкой анимацией.]]></description>
+      </offer>
+      <offer id="kemer-017" available="true">
+        <name>Пиратская яхта Gonster из Кемера</name>
+        <price>30</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/piratskaya-yakhta-gonster-iz-kemera.jpg</picture>
+        <description><![CDATA[Пиратская яхта Gonster из Кемера — это морская прогулка на большой тематической яхте с трансфером из отеля, остановками для купания в красивых бухтах, обедом на борту, детской анимацией и пенной вечеринкой. Экскурсия подойдёт семьям с детьми, компаниям друзей и всем, кто хочет провести день у моря с музыкой, развлечениями, пиратской атмосферой и видами побережья Кемера.]]></description>
+      </offer>
+      <offer id="kemer-018" available="true">
+        <name>Хамам (Турецкая баня) в Кемере</name>
+        <price>17</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/khamam-turetskaya-banya-v-kemere.jpg</picture>
+        <description><![CDATA[Хамам в Кемере — спокойная СПА-программа на 2 часа: трансфер в центр, сауна, паровая баня и джакузи с ментолом, пилинг Кесе, пенный и масляный массаж, маска для лица, соляная комната и турецкий чай. Подойдёт тем, кто хочет снять напряжение, подготовить кожу к загару и добавить к отдыху традиционный турецкий ритуал без поездки на целый день.]]></description>
+      </offer>
+      <offer id="kemer-019" available="true">
+        <name>Шоу дельфинов в Кемере</name>
+        <price>32</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/shou-delfinov-v-kemere.jpg</picture>
+        <description><![CDATA[Шоу дельфинов в Кемере длится 3 часа: трансфер из отеля, входной билет, размещение в зрительном зале и 40–50-минутное представление с дельфинами и морскими котиками. После шоу можно сделать фото или за доплату поплавать с дельфинами. Подойдёт семьям с детьми и тем, кто ищет лёгкое вечернее развлечение в Кемере без поездки на весь день.]]></description>
+      </offer>
+      <offer id="kemer-020" available="true">
+        <name>Парк развлечений Динопарк из Кемера</name>
+        <price>30</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/park-razvlecheniy-dinopark-iz-kemera.jpg</picture>
+        <description><![CDATA[Поездка в Динопарк из Кемера занимает 3–4 часа и проходит в посёлке Гейнюк: трансфер из отеля, входной билет, свободное посещение парка, более 30 моделей динозавров 1:1, верёвочная полоса, батуты, контактный зоопарк, детский бассейн и игровые площадки. Подойдёт семьям с детьми, которым нужен недолгий развлекательный выезд.]]></description>
+      </offer>
+      <offer id="kemer-021" available="true">
+        <name>Парк The Land of Legends из Кемера</name>
+        <price>75</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/park-the-land-of-legends-iz-kemera.jpg</picture>
+        <description><![CDATA[Экскурсия из Кемера в The Land of Legends рассчитана на 9 часов: трансфер в Белек, входной билет в аквапарк, свободное посещение водных горок и зон отдыха, шоу дельфинов и прогулка по авеню с кафе и магазинами. Подойдёт семьям с детьми и тем, кто хочет провести день в большом тематическом парке с развлечениями на разный возраст.]]></description>
+      </offer>
+      <offer id="kemer-022" available="true">
+        <name>Пикник и рыбалка из Кемера (Улупинар)</name>
+        <price>30</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/piknik-rybalka-iz-kemera-ulupinar.jpg</picture>
+        <description><![CDATA[Экскурсия в Улупынар из Кемера занимает около 5 часов: трансфер в долину у горной реки, инструктаж и всё для ловли форели, 2,5–3 часа свободного отдыха с рыбалкой, купанием или прогулкой, затем обед у воды с форелью, мясом, салатом и напитками. Подойдёт семьям с детьми, новичкам и тем, кто ищет спокойный выезд на природу в тени деревьев.]]></description>
+      </offer>
+      <offer id="kemer-023" available="true">
+        <name>Вечерний тур в The Land of Legends из Кемера</name>
+        <price>15</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/vecherniy-tur-park-v-the-land-of-legends-iz-kemer.jpg</picture>
+        <description><![CDATA[Вечерний тур в The Land of Legends из Кемера — это поездка в парк развлечений в Белеке с трансфером из отеля, свободным временем для прогулки, Shopping Avenue, ужина по желанию и просмотра вечернего шоу с музыкой, светом и фонтанами. Формат подойдёт тем, кто хочет провести яркий вечер за пределами Кемера без самостоятельной организации дороги и вернуться в отель после программы.]]></description>
+      </offer>
+      <offer id="kemer-024" available="true">
+        <name>Шоу «Огонь Анатолии» из Кемера</name>
+        <price>65</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/shou-ogon-anatolii-iz-kemera.jpg</picture>
+        <description><![CDATA[Шоу «Огонь Анатолии» из Кемера — это вечерняя поездка в античный театр Аспендос на одно из самых известных танцевальных представлений Турции с трансфером из отеля, ужином перед программой и входным билетом. Формат подойдёт тем, кто хочет провести вечер за пределами курорта, увидеть масштабную постановку с музыкой, костюмами, народными танцами и световыми эффектами.]]></description>
+      </offer>
+      <offer id="kemer-025" available="true">
+        <name>Рафтинг из Кемера</name>
+        <price>15</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/rafting-iz-kemera.jpg</picture>
+        <description><![CDATA[Рафтинг из Кемера проходит в национальном парке Кёпрюлю Каньон на горной реке Кёпрючай. В программе трансфер, инструктаж, сплав среди скал, сосновых лесов и живописных ущелий, остановки для отдыха и купания и обед. Подойдёт тем, кто хочет на день сменить пляжный отдых на активное приключение на природе.]]></description>
+      </offer>
+      <offer id="kemer-026" available="true">
+        <name>Джип-сафари из Кемера</name>
+        <price>27</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/dzhip-safari-iz-kemera.jpg</picture>
+        <description><![CDATA[Джип-сафари из Кемера — 10-часовая поездка на открытых джипах по горным дорогам с панорамными остановками, водной битвой при подходящей погоде и визитом в турецкую деревню. В программе обед у реки, свободное время для отдыха и купания. Подойдёт тем, кто хочет добавить к отпуску движение, природу и немного сельского колорита Турции.]]></description>
+      </offer>
+      <offer id="kemer-027" available="true">
+        <name>Рафтинг + Багги или Квадро Сафари из Кемера</name>
+        <price>25</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/safari-na-kvadrotsiklakh-rafting-iz-kemera.jpg</picture>
+        <description><![CDATA[Комбинированная экскурсия из Кемера на 11 часов объединяет рафтинг по реке Кёпрючай и квадро-сафари: трансфер в парк Кёпрюлю, инструктаж, защитная экипировка, сплав около 2 часов, остановки для купания и фото, 30–45 минут по горным и лесным тропам, обед у реки. Подойдёт тем, кто хочет активный день с водой, скоростью и природой.]]></description>
+      </offer>
+      <offer id="kemer-028" available="true">
+        <name>Джип-тур: Олимпос и Огни Химеры из Кемера</name>
+        <price>30</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/dzhip-tur-olimpos-i-ogni-khimery-iz-kemera.jpg</picture>
+        <description><![CDATA[Вечерний джип-тур из Кемера на 7 часов включает трансфер от отеля, отдых и купание на пляже Чиралы, посещение античного Олимпоса по желанию, джип-переезд к горе Химера, подъём по каменным ступеням к огням Янарташ и ужин в Улупынаре. Подойдёт тем, кто хочет за вечер совместить море, природу, древние руины и необычное природное явление.]]></description>
+      </offer>
+      <offer id="kemer-029" available="true">
+        <name>Каньон Тазы + Рафтинг из Кемера</name>
+        <price>28</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/kanon-tazy-rafting-iz-kemera.jpg</picture>
+        <description><![CDATA[Экскурсия из Кемера в каньон Тазы и на рафтинг занимает 11 часов: трансфер в национальный парк Кёпрюлю, подъём на открытом кабрио-автобусе к смотровой площадке, время для прогулки и фото, мост Олук, сплав по реке Кёпрючай около 14 км, обед и отдых на базе у реки. Тур подойдёт новичкам и тем, кто хочет активный день среди горных видов.]]></description>
+      </offer>
+      <offer id="kemer-030" available="true">
+        <name>Супер Драйв 3 в 1: Рафтинг + Зиплайн + Квадроциклы/Багги из Кемера</name>
+        <price>30</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/super-drayv-3-v-1-rafting-ziplayn-kvadrotsikly-baggi-iz-kemera.jpg</picture>
+        <description><![CDATA[Тур Супер Драйв 3 в 1 из Кемера рассчитан на 11 часов: трансфер в парк Кёпрюлю, инструктаж, рафтинг по Кёпрючаю около 2 часов с купанием, обед на берегу, катание на багги или квадроцикле по каньону 20–30 минут и зиплайн над каньоном Тазы 600 м. Подойдёт тем, кто хочет за день совместить воду, скорость и горные виды в одном активном маршруте.]]></description>
+      </offer>
+      <offer id="kemer-031" available="true">
+        <name>Супер Драйв 5 в 1: Рафтинг + Зиплайн + Багги/Квадро + Кабрио Сафари + Каньон Кёпрюлю из Кемера</name>
+        <price>32</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/super-drayv-5-v-1-rafting-ziplayn-baggi-kvadro-kabrio-safari-kanon-kyepryulyu-iz-kemera.jpg</picture>
+        <description><![CDATA[Супер Драйв 5 в 1 из Кемера — активный тур на 11 часов в каньон Кёпрюлю: трансфер, кабрио-сафари с остановкой для фото, рафтинг по Кёпрючаю около 2 часов, катание на багги или квадроцикле, зиплайн над рекой и обед у воды. Подойдёт тем, кто хочет за день совместить горные виды, воду и скорость.]]></description>
+      </offer>
+      <offer id="kemer-032" available="true">
+        <name>Экскурсия в Каньон Гёйнюк из Кемера</name>
+        <price>18</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/ekskursiya-v-kanon-geynyuk-iz-kemera.jpg</picture>
+        <description><![CDATA[Поездка в каньон Гёйнюк из Кемера занимает 4 часа: трансфер в национальный парк Бейдаглары, входной билет и около 3 часов свободного времени среди скал, горной реки, смотровых точек и прохладных озёр. Можно гулять, купаться, отдыхать в кафе, а зиплайн, лодку или боди-рафтинг добавить на месте. Подойдёт для лёгкого активного отдыха на природе.]]></description>
+      </offer>
+      <offer id="kemer-033" available="true">
+        <name>Экскурсия в Тазы каньон и город Сельге из Кемера</name>
+        <price>28</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/ekskursiya-v-tazy-kanon-i-gorod-selge-iz-kemera.jpg</picture>
+        <description><![CDATA[Экскурсия из Кемера в каньон Тазы и древний Сельге занимает 12 часов: трансфер в парк Кёпрюлю, поездка на кабрио-автобусе по горному серпантину, смотровая площадка над ущельем, античный театр и руины Сельге, скалы Адам Каялар, обед у реки и время для купания. Подойдёт тем, кто хочет совместить природу, историю и яркие фото без рафтинга.]]></description>
+      </offer>
+      <offer id="kemer-034" available="true">
+        <name>Квадро Сафари в Кемере</name>
+        <price>27</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/kvadro-safari-v-kemere.jpg</picture>
+        <description><![CDATA[Квадро сафари в Кемере — это сочетание драйва, красивой природы и приключения среди Таврских гор. Маршрут проходит по живописным лесным дорогам, горным тропам и участкам бездорожья, где сосновые леса сменяются каменистыми подъёмами, а пыльные трассы — прохладными горными ручьями. Подойдёт тем, кто хочет активный отдых недалеко от курорта.]]></description>
+      </offer>
+      <offer id="kemer-035" available="true">
+        <name>Сафари Багги в Кемере</name>
+        <price>32</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/safari-baggi-v-kemere.jpg</picture>
+        <description><![CDATA[Багги сафари в Кемере — активное приключение для тех, кто хочет добавить в отпуск больше эмоций и скорости. Маршрут проходит среди Таврских гор, хвойных лесов и природных дорог региона: пыльные трассы, каменистые участки и небольшие водные преграды. Подойдёт тем, кто хочет динамичную прогулку вдали от туристической суеты.]]></description>
+      </offer>
+      <offer id="kemer-036" available="true">
+        <name>Рафтинг + Джип Сафари + Зиплайн из Кемера</name>
+        <price>28</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/rafting-dzhip-safari-ziplayn-iz-kemera.jpg</picture>
+        <description><![CDATA[Рафтинг, джип-сафари и зиплайн из Кемера — комбинированная активная экскурсия в Кёпрюлю каньон, где за один день можно прокатиться по живописным маршрутам на открытом джипе или кабрио-автобусе, пройти сплав по горной реке Кёпрючай и полететь на зиплайне над каньоном. Тур подойдёт тем, кто хочет совместить природу Таврских гор, лёгкий экстрим, купание, красивые виды и обед у реки.]]></description>
+      </offer>
+      <offer id="kemer-037" available="true">
+        <name>Рафтинг + Джип Сафари из Кемера</name>
+        <price>24</price>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/toopozubla-sudo/vk-kemer/main/rafting-dzhip-safari-iz-kemera.jpg</picture>
+        <description><![CDATA[Рафтинг и джип-сафари из Кемера — комбинированная активная экскурсия в Кёпрюлю каньон, где за один день можно прокатиться по природным маршрутам на открытом джипе или кабрио-автобусе и пройти сплав по горной реке Кёпрючай. Тур подойдёт тем, кто хочет совместить красивые виды Таврских гор, драйвовую поездку по каньону, купание и обед у реки.]]></description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
